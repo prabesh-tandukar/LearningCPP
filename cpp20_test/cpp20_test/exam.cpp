@@ -16,8 +16,7 @@
 
 //int main() {
 //	int total{ 10 };
-//	int result_counter{ 1 };
-//	int pass{ 0 };
+//	int pass{ 0 }
 //	int fail{ 0 };
 //	while (result_counter <= total) {
 //		int temp = 0;

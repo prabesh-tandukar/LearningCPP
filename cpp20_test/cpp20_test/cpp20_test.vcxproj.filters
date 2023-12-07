@@ -24,5 +24,8 @@
     <ClCompile Include="exam.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="prefixVSpostfix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

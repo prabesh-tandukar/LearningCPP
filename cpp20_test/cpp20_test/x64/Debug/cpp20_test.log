@@ -1,2 +1,8 @@
-﻿  exam.cpp
-  cpp20_test.vcxproj -> C:\Users\tandu\source\repos\cpp20_test\x64\Debug\cpp20_test.exe
+﻿  GuessNumber.cpp
+/OneDrive/Documents/example/CPlusPlus20FundamentalsLiveLessons-master/examples/lesson01/GuessNumber.cpp(1,1): error C1083: Cannot open source file: '..\..\..\..\OneDrive\Documents\example\CPlusPlus20FundamentalsLiveLessons-master\examples\lesson01\GuessNumber.cpp': No such file or directory
+  (compiling source file '/OneDrive/Documents/example/CPlusPlus20FundamentalsLiveLessons-master/examples/lesson01/GuessNumber.cpp')
+  
+  exam.cpp
+  less3.cpp
+  prefixVSpostfix.cpp
+  Generating Code...

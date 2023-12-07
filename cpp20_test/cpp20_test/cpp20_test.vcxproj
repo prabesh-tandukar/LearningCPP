@@ -134,6 +134,7 @@
     <ClCompile Include="..\..\..\..\OneDrive\Documents\example\CPlusPlus20FundamentalsLiveLessons-master\examples\lesson01\GuessNumber.cpp" />
     <ClCompile Include="exam.cpp" />
     <ClCompile Include="less3.cpp" />
+    <ClCompile Include="prefixVSpostfix.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
